@@ -1,0 +1,7 @@
+cron:
+
+- description: QAlert
+  url: /QAlert
+  schedule: every 1 minutes
+
+
